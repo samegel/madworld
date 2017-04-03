@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
   <Variable
     Comment=""
@@ -35,4 +35,12 @@
     Type="DateTime"
     LastUpdated="2015-12-31T09:28:31.1216229-08:00"
     EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="altvariable"
+    Comment=""
+    EvaluatedDefinition="definition 1">definition 1</Variable>
+  <Variable
+    Name="altvariable"
+    Comment=""
+    EvaluatedDefinition="definition 2">definition 2</Variable>
 </CatapultVariableSet>
