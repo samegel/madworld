@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="true"
+  IncludePattern="*.flsnp"
+  IncludeLinkedFiles="true"
+  LastImport="2017-04-03T12:37:37.5236994-05:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/samuel.egel/Box Sync/TechComBio/Holstr/Holstr.flprj"
+      AbsoluteSource="file:///C:/Users/samuel.egel/Box Sync/TechComBio/Holstr/Holstr.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../../Box Sync/TechComBio/Holstr/Content/Resources/Snippets/appendix.flsnp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/Box Sync/TechComBio/Holstr/Content/Resources/Snippets/appendix.flsnp" />
+    <Url
+      Source="../../../../Box Sync/TechComBio/Holstr/Content/Resources/Snippets/data_folder.flsnp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/Box Sync/TechComBio/Holstr/Content/Resources/Snippets/data_folder.flsnp" />
+    <Url
+      Source="../../../../Box Sync/TechComBio/Holstr/Content/Resources/Snippets/experiment.flsnp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/Box Sync/TechComBio/Holstr/Content/Resources/Snippets/experiment.flsnp" />
+    <Url
+      Source="../../../../Box Sync/TechComBio/Holstr/Content/Resources/Snippets/feedback_button.flsnp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/Box Sync/TechComBio/Holstr/Content/Resources/Snippets/feedback_button.flsnp" />
+    <Url
+      Source="../../../../Box Sync/TechComBio/Holstr/Content/Resources/Snippets/import_book_action.flsnp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/Box Sync/TechComBio/Holstr/Content/Resources/Snippets/import_book_action.flsnp" />
+    <Url
+      Source="../../../../Box Sync/TechComBio/Holstr/Content/Resources/Snippets/lbfx.flsnp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/Box Sync/TechComBio/Holstr/Content/Resources/Snippets/lbfx.flsnp" />
+    <Url
+      Source="../../../../Box Sync/TechComBio/Holstr/Content/Resources/Snippets/my_notebooks_page.flsnp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/Box Sync/TechComBio/Holstr/Content/Resources/Snippets/my_notebooks_page.flsnp" />
+    <Url
+      Source="../../../../Box Sync/TechComBio/Holstr/Content/Resources/Snippets/paren_lbfx.flsnp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/Box Sync/TechComBio/Holstr/Content/Resources/Snippets/paren_lbfx.flsnp" />
+    <Url
+      Source="../../../../Box Sync/TechComBio/Holstr/Content/Resources/Snippets/software_name.flsnp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/Box Sync/TechComBio/Holstr/Content/Resources/Snippets/software_name.flsnp" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Snippets/appendix.flsnp"
+      TimeStamp="8/16/2015 9:55:08 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/data_folder.flsnp"
+      TimeStamp="8/16/2015 9:54:21 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/experiment.flsnp"
+      TimeStamp="8/16/2015 9:54:04 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/feedback_button.flsnp"
+      TimeStamp="8/16/2015 4:33:12 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/import_book_action.flsnp"
+      TimeStamp="8/19/2015 2:11:04 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/lbfx.flsnp"
+      TimeStamp="8/16/2015 6:49:53 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/my_notebooks_page.flsnp"
+      TimeStamp="8/16/2015 6:05:58 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/paren_lbfx.flsnp"
+      TimeStamp="8/16/2015 6:21:22 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/software_name.flsnp"
+      TimeStamp="6/16/2016 10:24:17 AM" />
+  </GeneratedFiles>
+</CatapultProjectImport>
