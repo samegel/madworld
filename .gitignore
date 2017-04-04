@@ -1,4 +1,6 @@
+.gitignore
 Analyzer
 Output
 .DS_Store
+FileSync
 FileSyncProject/Users.gitignore**/Thumbs.dbFileSyncProject/Users.gitignore**/Thumbs.dbFileSyncProject/Users.gitignore**/Thumbs.dbFileSyncProject/Users.gitignore**/Thumbs.dbFileSyncProject/Users.gitignore**/Thumbs.dbFileSyncProject/Users.gitignore**/Thumbs.db
