@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="90" MadCap:lastWidth="1032">
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,300i,400,700" rel="stylesheet" />
+    </head>
+    <body>
+        <div class="Row-BreadCrumbs">
+            <div>
+                <MadCap:breadcrumbsProxy />
+            </div>
+            <div>
+                <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: PreviousTopic NextTopic;" />
+            </div>
+        </div>
+        <div class="Row-StandardMasterPage">
+            <div>
+                <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" data-mc-skin="/Project/Skins/Menu.flskn" />
+            </div>
+            <div>
+                <MadCap:bodyProxy />
+            </div>
+        </div>
+    </body>
+</html>

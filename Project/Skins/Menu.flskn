@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
+  Comment="HTML5 Menu skin"
+  ComponentType="Menu"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Menu">
+        <Properties>
+          <Property
+            Name="PaddingRight">0px</Property>
+          <Property
+            Name="BorderRight">solid 1px #002855</Property>
+          <Property
+            Name="BackgroundColor">#f5f5f5</Property>
+          <Property
+            Name="MarginTop">20px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu Item">
+        <Properties>
+          <Property
+            Name="MarginTop">4px</Property>
+          <Property
+            Name="MarginBottom">4px</Property>
+          <Property
+            Name="PaddingTop">10px</Property>
+          <Property
+            Name="PaddingBottom">10px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu Item (hover)">
+        <Properties>
+          <Property
+            Name="Color">#000000</Property>
+          <Property
+            Name="BackgroundColor">#ffffff</Property>
+        </Properties>
+      </Style>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="Menu">
+          <Properties>
+            <Property
+              Name="BorderRight">none 0px transparent</Property>
+            <Property
+              Name="PaddingTop">3px</Property>
+            <Property
+              Name="PaddingBottom">3px</Property>
+            <Property
+              Name="Width">100%</Property>
+          </Properties>
+        </Style>
+      </Medium>
+    </Styles>
+    <Stylesheet></Stylesheet>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

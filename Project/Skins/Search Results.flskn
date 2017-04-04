@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
+  Comment="HTML5 Search Results skin"
+  ComponentType="SearchResults">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Search Result Path">
+        <Properties></Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

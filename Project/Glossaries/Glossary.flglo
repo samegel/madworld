@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Glossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Body Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">An element you can add to a master page. A Body proxy represents the main content from your topics (such as text, pictures, rulers, etc.). In a master page, if you enter additional content above the Body proxy bar, the content will display as a header (above the topic body) in the output. If you enter the content below the Body proxy bar in the master page, the content will display as a footer (below the topic body) in the output.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Breadcrumbs proxy</Term>
+    </Terms>
+    <Definition
+      Link="">An element that you can add to a master page. If this proxy is included in a master page, the output will display a "trail of breadcrumbs" comprised of the table of contents (TOC) entries above the current topic in the TOC hierarchy.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Concepts Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">You can use the Concepts proxy to generate a list of all of the concepts in your project, with links to the corresponding content.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term3"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Endnotes Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">An element you can use to consolidate your endnotes at the end of a manual. This proxy allows you to start the list of endnotes on a new page</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term4"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Glossary Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">If you want your printed output to include the glossary from your project, you need to create a topic specifically for this purpose and insert a Glossary proxy into it.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term5"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Index Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">If you want your printed output to include the index from your project, you need to create a topic specifically for this purpose and insert an Index proxy into it.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term6"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>List-Of Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">A proxy that lets you generate a list of all of various types of elements in your output, with links to the corresponding content. For example, you might want to generate a list of tables or images that you have inserted throughout the project.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term7"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Menu Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">A proxy that creates the context-sensitive menu in TopNav outputs.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term8"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>MiniTOC Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">A proxy used to generate a portion of a TOC, such as a chapter TOC.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term9"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Relationships Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">An element that you can add to a topic in order to automatically create links between related topics. The links are based on a relationship table.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term10"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Search Bar Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">A Search Bar proxy allows you to create a field that can be used to perform searches in your output. When you build the output, the proxy is replaced with the generated search bar.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term11"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>TOC Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">If you want your printed output to include a generated table of contents (TOC) from your project, you need to create a topic specifically for this purpose and insert a TOC proxy into it.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term12"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Topic Toolbar Proxy</Term>
+    </Terms>
+    <Definition
+      Link="">A proxy that is used to generate a Web toolbar anywhere in any topics. This is an alternative (or an additional option) to the regular toolbar that can be included in all online outputs (via the Help Viewer or through the use of skins). This feature is available for any of the online output formats.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>
