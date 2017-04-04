@@ -1,0 +1,388 @@
+/*<meta />*/
+
+body
+{
+	font-family: Roboto, Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 1.7em;
+	color: #555;
+}
+
+h1
+{
+	font-size: 50px;
+	font-weight: 100;
+	padding-bottom: 10px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+h2
+{
+	font-size: 38px;
+	font-weight: 100;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	border-bottom: .1px solid #f9a416;
+}
+
+h3
+{
+	font-size: 30px;
+	font-weight: 300;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+h4
+{
+	font-size: 24px;
+	font-weight: 300;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+h5
+{
+	font-size: 18px;
+	font-weight: 500;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+p
+{
+	margin-bottom: 1.8em;
+	margin-top: 0px;
+}
+
+.popupBody
+{
+	width: 40%;
+}
+
+ol,
+ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+MadCap|expandingHead
+{
+	font-style: italic;
+	font-weight: normal;
+	cursor: hand;
+	text-decoration: none;
+	color: #006600;
+}
+
+MadCap|expandingBody
+{
+	color: #777777;
+	font-style: italic;
+}
+
+MadCap|dropDownHotspot
+{
+	cursor: hand;
+	font-style: italic;
+	text-decoration: none;
+	color: #006600;
+}
+
+span.PathName
+{
+	font-weight: bold;
+	color: maroon;
+}
+
+p.FlareLocation
+{
+	background-color: #ececec;
+	padding: 10px;
+}
+
+span.code
+{
+	font-family: consolas, 'courier new', monospace;
+}
+
+div#searchResults
+{
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+ul.menu._Skins_Menu.mc-component li > a.selected,
+ul.menu._Skins_Menu.mc-component ul > li > a:hover
+{
+	border-right: 0px solid #fff;
+	border-bottom: 1px solid #002855;
+	border-left: 1px solid #002855;
+	border-top: 1px solid #002855;
+	margin-right: -1px;
+	background-color: #fff;
+}
+
+ul.menu._Skins_Menu.mc-component ul > li > a:hover,
+ul.menu._Skins_Menu.mc-component li > a.selected
+{
+	padding-top: 9px;
+	padding-bottom: 9px;
+	margin-left: -1px;
+}
+
+.buttons.mc-component
+{
+	float: right;
+}
+
+div.Row-StandardMasterPage	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.Row-StandardMasterPage::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.Row-StandardMasterPage::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.Row-StandardMasterPage > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+div.Row-StandardMasterPage > div:nth-child(1)
+{
+	width: 33.333%;
+	margin-left: 0%;
+}
+
+div.Row-StandardMasterPage > div:nth-child(2)
+{
+	width: 66.667%;
+	margin-left: 0%;
+}
+
+MadCap|concept
+{
+	background-color: transparent;
+}
+
+div.Row-BreadCrumbs	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom: solid 1px #a9a9a9;
+}
+
+div.Row-BreadCrumbs::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.Row-BreadCrumbs::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.Row-BreadCrumbs > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.Row-BreadCrumbs > div:nth-child(1)
+{
+	width: 83.333%;
+	margin-left: 0%;
+}
+
+div.Row-BreadCrumbs > div:nth-child(2)
+{
+	width: 16.667%;
+	margin-left: 0%;
+}
+
+MadCap|breadcrumbsProxy
+{
+	border-bottom-style: none;
+	mc-breadcrumbs-prefix: ' ';
+}
+
+MadCap|indexProxy
+{
+	mc-output-support: all;
+}
+
+MadCap|searchResultsProxy
+{
+	mc-master-page: url('../MasterPages/searchResults.flmsp');
+}
+
+@media tablet
+{
+	div.Row-StandardMasterPage > div:nth-child(1)
+	{
+		width: 33.333%;
+		margin-left: 0%;
+	}
+
+	div.Row-StandardMasterPage > div:nth-child(2)
+	{
+		width: 66.667%;
+		margin-left: 0%;
+	}
+
+	div.Row-StandardMasterPage
+	{
+		margin-bottom: 20px;
+	}
+
+	MadCap|keyword
+	{
+		
+	}
+
+	div.Row-BreadCrumbs > div:nth-child(1)
+	{
+		width: 66.66667%;
+		margin-left: 0%;
+	}
+
+	div.Row-BreadCrumbs > div:nth-child(2)
+	{
+		width: 33.33333%;
+		margin-left: 0%;
+	}
+
+	MadCap|breadcrumbsProxy
+	{
+		
+	}
+
+	ul.menu._Skins_Menu.mc-component
+	{
+		width: 100%;
+	}
+}
+
+@media mobile
+{
+	div.Row-StandardMasterPage > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.Row-StandardMasterPage > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.Row-BreadCrumbs > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.Row-BreadCrumbs > div:nth-child(2)
+	{
+		display: none;
+	}
+
+	ul.menu._Skins_Menu.mc-component li > a
+	{
+		padding-top: 3px;
+		padding-bottom: 3px;
+	}
+
+	ul.menu._Skins_Menu.mc-component li > a.selected
+	{
+		border-right: 1px solid #002855;
+		margin-right: 7px;
+	}
+
+	div.MCBreadcrumbsBox_0
+	{
+		font-size: 13px;
+		mc-breadcrumbs-prefix: '';
+	}
+}
+
+@media print
+{
+	body
+	{
+		font-family: Cambria;
+		font-size: 12pt;
+		line-height: 15pt;
+		mc-hyphenate: never;
+	}
+
+	h2
+	{
+		page-break-before: always;
+		margin-left: -.5in;
+		font-family: Calibri;
+		font-size: 24pt;
+	}
+
+	h3
+	{
+		margin-left: -.5in;
+		font-family: Calibri;
+		font-size: 20pt;
+	}
+
+	h1
+	{
+		font-family: Calibri;
+		font-size: 30pt;
+	}
+
+	MadCap|pageFooter
+	{
+		margin-left: -.5in;
+		margin-right: -.5in;
+	}
+
+	MadCap|pageHeader
+	{
+		margin-left: -.5in;
+		margin-right: -.5in;
+	}
+}
+

@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  xml:lang="en-us"
+  SourceControlBound="true"
+  Comment="This template contains several starter topics and other files intended for online HTML5 output with top navigation like a modern website, instead of the more traditional tripane format. It includes several features that you might use in online output, and the content and files have been designed to maximize single-sourcing capabilities. This template starts you out with an HTML5 target. Responsive output is automatically enabled with this type of output. This means the content display changes automatically depending on the width of the screen. The template also includes multiple PDF targets for generating user guides with different content in different sizes; some with crop and registration marks set, some without. You can add other kinds of targets and skins if you like."
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  MasterStylesheetOverride="True"
+  SourceControlDatabase="C:\Users\samuel.egel\code\madworld\.git"
+  SourceControlDatabaseRoot="C:\Users\samuel.egel\code\madworld"
+  SourceControlProviderType="Git"
+  IncludePattern="*.*"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="false"
+  LastImport="2017-04-04T12:58:20.6017445-05:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/proxy-demo.flprj"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/proxy-demo.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Endnotes.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Endnotes.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Glossary.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Glossary.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/In This Guide.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/In This Guide.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Index.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Index.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/List of Concepts.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/List of Concepts.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/List-Of Proxy.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/List-Of Proxy.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Search Results Example.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Search Results Example.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Body.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Body.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Breadcrumbs.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Breadcrumbs.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Concepts.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Concepts.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Endnotes.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Endnotes.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Glossary.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Glossary.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Index.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Index.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/List Of.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/List Of.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Menu.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Menu.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/MiniTOC.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/MiniTOC.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Page Header and Page Footer.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Page Header and Page Footer.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Relationships.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Relationships.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Search Bar.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Search Bar.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Search Results.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Search Results.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/TOC.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/TOC.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Proxy Types/Topic Toolbar.htm"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Proxy Types/Topic Toolbar.htm" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Resources/Images/logo-new-white-output-350.png"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Resources/Images/logo-new-white-output-350.png" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Resources/Images/logo-new-white-output.png"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Resources/Images/logo-new-white-output.png" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Resources/Images/responsive-logo.png"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Resources/Images/responsive-logo.png" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Resources/MasterPages/default.flmsp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Resources/MasterPages/default.flmsp" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Resources/MasterPages/searchResults.flmsp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Resources/MasterPages/searchResults.flmsp" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Resources/MasterPages/Word.flmsp"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Resources/MasterPages/Word.flmsp" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Resources/PageLayouts/Default.flpgl"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Content/Resources/Stylesheets/Styles.css"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Content/Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/English (United States) IgnoredWords.mcign"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/English (United States) IgnoredWords.mcign" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/Auto Index Sets/AutoIndexSet.flaix"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/Auto Index Sets/AutoIndexSet.flaix" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/Browse Sequences/BrowseSequence.flbrs"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/Browse Sequences/BrowseSequence.flbrs" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/CSH/AliasFile.flali"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/CSH/AliasFile.flali" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/CSH/HeaderFile.h"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/CSH/HeaderFile.h" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/File Tags/FileTagSetAuthor.flfts"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/File Tags/FileTagSetAuthor.flfts" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/File Tags/FileTagSetStatus.flfts"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/File Tags/FileTagSetStatus.flfts" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/Index Link Sets/IndexLinkSet.flixl"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/Index Link Sets/IndexLinkSet.flixl" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/Relationship Tables/RelationshipTable.flrtb"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/Relationship Tables/RelationshipTable.flrtb" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/Search Filters/SearchFilter.flsfs"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/Search Filters/SearchFilter.flsfs" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Advanced/Synonyms/Synonyms.mcsyns"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Advanced/Synonyms/Synonyms.mcsyns" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/ConditionTagSets/Default.flcts"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/ConditionTagSets/Default.flcts" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Destinations/Destination.fldes"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Destinations/Destination.fldes" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Glossaries/Glossary.flglo"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Glossaries/Glossary.flglo" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Reports/Critical Issues Report.flrep"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Reports/Critical Issues Report.flrep" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Reports/Empty Report.flrep"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Reports/Empty Report.flrep" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Reports/Unused Items Report.flrep"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Reports/Unused Items Report.flrep" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Skins/Default.flskn"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Skins/Default.flskn" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Skins/HTML5 - Top Navigation.flskn"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Skins/HTML5 - Top Navigation.flskn" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Skins/HTML5 - Tripane.flskn"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Skins/HTML5 - Tripane.flskn" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Skins/Menu.flskn"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Skins/Menu.flskn" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Skins/Search Results.flskn"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Skins/Search Results.flskn" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Targets/Build All Targets.flbat"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Targets/Build All Targets.flbat" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Targets/HTML5.fltar"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Targets/HTML5.fltar" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Targets/PDF.fltar"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Targets/PDF.fltar" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/Targets/Word.fltar"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/Targets/Word.fltar" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/TOCs/Master.fltoc"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/TOCs/Master.fltoc" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/VariableSets/Running HF.flvar"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/VariableSets/Running HF.flvar" />
+    <Url
+      Source="../../../proxy/proxy-demo-v1/Project/VariableSets/Variables.flvar"
+      AbsoluteSource="file:///C:/Users/samuel.egel/code/proxy/proxy-demo-v1/Project/VariableSets/Variables.flvar" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Endnotes.htm"
+      TimeStamp="4/4/2017 11:34:43 AM" />
+    <Url
+      Source="../../Content/Glossary.htm"
+      TimeStamp="4/4/2017 11:34:43 AM" />
+    <Url
+      Source="../../Content/In This Guide.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Index.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/List of Concepts.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/List-Of Proxy.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Search Results Example.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Body.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Breadcrumbs.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Concepts.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Endnotes.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Glossary.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Index.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/List Of.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Menu.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/MiniTOC.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Page Header and Page Footer.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Relationships.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Search Bar.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Search Results.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/TOC.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Proxy Types/Topic Toolbar.htm"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/logo-new-white-output-350.png"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/logo-new-white-output.png"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/responsive-logo.png"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/default.flmsp"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/searchResults.flmsp"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Word.flmsp"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Resources/PageLayouts/Default.flpgl"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Styles.css"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/English (United States) IgnoredWords.mcign"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/Auto Index Sets/AutoIndexSet.flaix"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/Auto Suggestion Sets/AutoSuggestionSet.fltbx"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/Browse Sequences/BrowseSequence.flbrs"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/CSH/AliasFile.flali"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/CSH/HeaderFile.h"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/File Tags/FileTagSetAuthor.flfts"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/File Tags/FileTagSetStatus.flfts"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/Index Link Sets/IndexLinkSet.flixl"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/Relationship Tables/RelationshipTable.flrtb"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/Search Filters/SearchFilter.flsfs"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Advanced/Synonyms/Synonyms.mcsyns"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../ConditionTagSets/Default.flcts"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Destinations/Destination.fldes"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Glossaries/Glossary.flglo"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Reports/Critical Issues Report.flrep"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Reports/Empty Report.flrep"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Reports/Unused Items Report.flrep"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Skins/Default.flskn"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Skins/HTML5 - Top Navigation.flskn"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Skins/HTML5 - Tripane.flskn"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Skins/Menu.flskn"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Skins/Search Results.flskn"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Targets/Build All Targets.flbat"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Targets/HTML5.fltar"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Targets/PDF.fltar"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../Targets/Word.fltar"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../TOCs/Master.fltoc"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../VariableSets/Running HF.flvar"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+    <Url
+      Source="../VariableSets/Variables.flvar"
+      TimeStamp="4/4/2017 11:34:44 AM" />
+  </GeneratedFiles>
+</CatapultProject>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<reltable xmlns="http://docs.oasis-open.org/dita/v1.1/schema/ditabase.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <relheader>
+        <relcolspec type="concept" />
+        <relcolspec type="task" />
+        <relcolspec type="reference" />
+    </relheader>
+    <relrow class="Sample-entries">
+        <relcell>
+            <topicref href="/Content/Proxy Types/Relationships.htm" />
+            <topicref href="/Content/Proxy Types/TOC.htm" />
+        </relcell>
+        <relcell>
+            <topicref href="/Content/Proxy Types/Body.htm" />
+            <topicref href="/Content/Proxy Types/Breadcrumbs.htm" />
+            <topicref href="/Content/Proxy Types/List Of.htm" />
+        </relcell>
+        <relcell>
+            <topicref href="/Content/Proxy Types/Concepts.htm" />
+            <topicref href="/Content/Proxy Types/Endnotes.htm" />
+            <topicref href="/Content/Proxy Types/Index.htm" />
+        </relcell>
+    </relrow>
+</reltable>

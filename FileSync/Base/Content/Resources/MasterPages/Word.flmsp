@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="117" MadCap:lastWidth="993">
+    <head>
+    </head>
+    <body>
+        <MadCap:pageHeader style="text-align: left;">
+            <table style="width: 100%;">
+                <col style="width: 50%;" />
+                <col style="width: 50%;" />
+                <tbody>
+                    <tr>
+                        <td>
+                            <p><MadCap:variable name="Running HF.Running H/F 1" />
+                            </p>
+                        </td>
+                        <td style="text-align: right;"><MadCap:variable name="Running HF.Running H/F 2" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </MadCap:pageHeader>
+        <MadCap:bodyProxy style="mc-printer-page-footer-margin: 0.5in;mc-printer-page-header-margin: 0.5in;mc-printer-page-margin-bottom: 1in;mc-printer-page-margin-top: 1in;mc-printer-page-margin-right: 1in;mc-page-number-start-value: 1;mc-page-number-format: decimal;mc-printer-page-orientation: portrait;mc-printer-page-size: letter;mc-printer-page-margin-left: 1.5in;" />
+        <MadCap:pageFooter>- <MadCap:variable name="System.PageNumber" /> -</MadCap:pageFooter>
+    </body>
+</html>
