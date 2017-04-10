@@ -43,4 +43,48 @@
     Name="altvariable"
     Comment=""
     EvaluatedDefinition="definition 2">definition 2</Variable>
+  <Variable
+    Name="altvariable"
+    Comment=""
+    EvaluatedDefinition="definition 3">definition 3</Variable>
+  <Variable
+    Name="altvariable"
+    Comment=""
+    EvaluatedDefinition="definition 4">definition 4</Variable>
+  <Variable
+    Name="altvariable"
+    Comment=""
+    EvaluatedDefinition="definition 5">definition 5</Variable>
+  <Variable
+    Name="altvariable"
+    Comment=""
+    EvaluatedDefinition="another definition">another definition</Variable>
+  <Variable
+    Name="altvariable"
+    Comment=""
+    EvaluatedDefinition="more definitions">more definitions</Variable>
+  <Variable
+    Name="altvariable"
+    Comment=""
+    EvaluatedDefinition="so many definitions">so many definitions</Variable>
+  <Variable
+    Name="altvariable"
+    Comment=""
+    EvaluatedDefinition="we're starting to get the picture">we're starting to get the picture</Variable>
+  <Variable
+    Name="altvariable"
+    Comment=""
+    EvaluatedDefinition="stuff">stuff</Variable>
+  <Variable
+    Name="trademark"
+    Comment=""
+    EvaluatedDefinition="LI‑COR™ instruments">LI‑COR™ instruments</Variable>
+  <Variable
+    Name="testR"
+    Comment=""
+    EvaluatedDefinition="stuff®">stuff®</Variable>
+  <Variable
+    Name="testR"
+    Comment=""
+    EvaluatedDefinition="new®">new®</Variable>
 </CatapultVariableSet>

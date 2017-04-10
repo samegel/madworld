@@ -18,4 +18,8 @@
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
     GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable
+      Name="General/altvariable">another definition</Variable>
+  </Variables>
 </CatapultTarget>

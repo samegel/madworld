@@ -3,7 +3,7 @@
 body
 {
 	color: #404040;
-	font-family: Arial, Avenir, Myriad;
+	font-family: Univers Next Pro;
 	font-size: 1em;
 	line-height: 1.7em;
 }
@@ -58,17 +58,17 @@ div.example
 
 div.GlossaryPageDefinition
 {
-	
+
 }
 
 div.GlossaryPageHeading
 {
-	
+
 }
 
 div.GlossaryPageTerm
 {
-	
+
 }
 
 div.ImagesFloatLeft
@@ -154,12 +154,12 @@ h1
 
 h1.Appendix
 {
-	
+
 }
 
 h1.UserGuideBHeading
 {
-	
+
 }
 
 h2
@@ -258,27 +258,27 @@ MadCap|dropDownHotspot:hover
 
 MadCap|footnoteBlock
 {
-	
+
 }
 
 MadCap|footnotesBlock
 {
-	
+
 }
 
 MadCap|glossaryProxy
 {
-	
+
 }
 
 MadCap|indexProxy
 {
-	
+
 }
 
 MadCap|miniTocProxy
 {
-	
+
 }
 
 MadCap|popup
@@ -304,7 +304,7 @@ MadCap|popupHead
 
 MadCap|tocProxy
 {
-	
+
 }
 
 MadCap|xref
@@ -322,7 +322,7 @@ MadCap|xref:hover
 
 MadCap|xref.IndexPageNumber
 {
-	
+
 }
 
 ol
@@ -364,27 +364,27 @@ p.CompanyInformation2
 
 p.Copyright
 {
-	
+
 }
 
 p.CopyrightAddress
 {
-	
+
 }
 
 p.CopyrightHeading
 {
-	
+
 }
 
 p.CreatedUsingFlare
 {
-	
+
 }
 
 p.EmptyPageText
 {
-	
+
 }
 
 p.ExampleHeadText
@@ -399,57 +399,57 @@ p.ExampleHeadText
 
 p.Figure
 {
-	
+
 }
 
 p.FirstPageOfChapter
 {
-	
+
 }
 
 p.FrameFooterText
 {
-	
+
 }
 
 p.FrameFooterText2
 {
-	
+
 }
 
 p.GlossaryPrintHead
 {
-	
+
 }
 
 p.IndexHeading
 {
-	
+
 }
 
 p.IndexPrintHead
 {
-	
+
 }
 
 p.ManualTitle1
 {
-	
+
 }
 
 p.ManualTitle2
 {
-	
+
 }
 
 p.ManualVersionNumber
 {
-	
+
 }
 
 p.MiniTOC1
 {
-	
+
 }
 
 p.quotationname
@@ -459,7 +459,7 @@ p.quotationname
 
 p.TableCaption
 {
-	
+
 }
 
 p.TableTextCenterDark
@@ -503,7 +503,7 @@ p.TableTextLightEmphasis
 
 p.TOCHeading
 {
-	
+
 }
 
 span.Emphasis
@@ -513,7 +513,7 @@ span.Emphasis
 
 span.FigureNum
 {
-	
+
 }
 
 span.SetOffFirstLevel
@@ -530,7 +530,7 @@ span.SetOffSecondLevel
 
 span.TableNum
 {
-	
+
 }
 
 td
@@ -548,7 +548,7 @@ th
 
 tr
 {
-	
+
 }
 
 ul
@@ -580,6 +580,7 @@ html.templateTopic div.sideContent
 		font-size: 8pt;
 		line-height: 13px;
 		margin: 8px;
+		font-family: 'Univers Next Pro';
 	}
 
 	div.GlossaryPageDefinition

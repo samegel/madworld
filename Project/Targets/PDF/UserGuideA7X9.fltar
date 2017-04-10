@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="User Guide A—7X9"
@@ -10,7 +10,9 @@
   PatchHeadingLevels="true"
   InjectEmptyPages="true"
   UseLocalBuildSettings="true"
-  IgnoredCompilerWarnings="20032,20033,20034,20035,20036,20037,20038,20039,20040,20041">
+  IgnoredCompilerWarnings="20032,20033,20034,20035,20036,20037,20038,20039,20040,20041"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  DisableAutoSync="true">
   <PrintedOutput
     CollapseMargins="true"
     ExpandingTextConversion="expand"
@@ -20,10 +22,15 @@
     Author="My Name" />
   <PDF
     ShowUsedBookmarks="false"
-    InitialMagnification="50"
-    PageLayout="TwoColumnRight"
+    InitialMagnification="125"
+    PageLayout="OneColumn"
     TitleBar="DocumentTitle"
     CollapsedBookmarks="true"
     CropAndRegistrationMarks="false"
-    ConvertToCMYK="true" />
+    ConvertToCMYK="true"
+    PageMode="UseNone" />
+  <Variables>
+    <Variable
+      Name="General/testR">new®</Variable>
+  </Variables>
 </CatapultTarget>
