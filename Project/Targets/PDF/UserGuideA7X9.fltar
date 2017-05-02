@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="User Guide A—7X9"
@@ -20,8 +20,8 @@
     Author="My Name" />
   <PDF
     ShowUsedBookmarks="false"
-    InitialMagnification="50"
-    PageLayout="TwoColumnRight"
+    InitialMagnification="100"
+    PageLayout="OneColumn"
     TitleBar="DocumentTitle"
     CollapsedBookmarks="true"
     CropAndRegistrationMarks="false"
