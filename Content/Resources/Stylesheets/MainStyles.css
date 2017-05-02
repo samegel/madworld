@@ -8,6 +8,17 @@ body
 	line-height: 1.7em;
 }
 
+span.blue-button
+{
+	font-family: "Arial";
+	padding: 6px;
+	color: #fff;
+	border-radius: 4px;
+	text-align: center;
+	background-color: #00aadf;
+	border: 1px solid #017195;
+}
+
 a
 {
 	color: #2d82dc;
@@ -58,17 +69,17 @@ div.example
 
 div.GlossaryPageDefinition
 {
-	
+
 }
 
 div.GlossaryPageHeading
 {
-	
+
 }
 
 div.GlossaryPageTerm
 {
-	
+
 }
 
 div.ImagesFloatLeft
@@ -154,12 +165,12 @@ h1
 
 h1.Appendix
 {
-	
+
 }
 
 h1.UserGuideBHeading
 {
-	
+
 }
 
 h2
@@ -258,27 +269,27 @@ MadCap|dropDownHotspot:hover
 
 MadCap|footnoteBlock
 {
-	
+
 }
 
 MadCap|footnotesBlock
 {
-	
+
 }
 
 MadCap|glossaryProxy
 {
-	
+
 }
 
 MadCap|indexProxy
 {
-	
+
 }
 
 MadCap|miniTocProxy
 {
-	
+
 }
 
 MadCap|popup
@@ -304,7 +315,7 @@ MadCap|popupHead
 
 MadCap|tocProxy
 {
-	
+
 }
 
 MadCap|xref
@@ -322,7 +333,7 @@ MadCap|xref:hover
 
 MadCap|xref.IndexPageNumber
 {
-	
+
 }
 
 ol
@@ -364,27 +375,27 @@ p.CompanyInformation2
 
 p.Copyright
 {
-	
+
 }
 
 p.CopyrightAddress
 {
-	
+
 }
 
 p.CopyrightHeading
 {
-	
+
 }
 
 p.CreatedUsingFlare
 {
-	
+
 }
 
 p.EmptyPageText
 {
-	
+
 }
 
 p.ExampleHeadText
@@ -399,57 +410,57 @@ p.ExampleHeadText
 
 p.Figure
 {
-	
+
 }
 
 p.FirstPageOfChapter
 {
-	
+
 }
 
 p.FrameFooterText
 {
-	
+
 }
 
 p.FrameFooterText2
 {
-	
+
 }
 
 p.GlossaryPrintHead
 {
-	
+
 }
 
 p.IndexHeading
 {
-	
+
 }
 
 p.IndexPrintHead
 {
-	
+
 }
 
 p.ManualTitle1
 {
-	
+
 }
 
 p.ManualTitle2
 {
-	
+
 }
 
 p.ManualVersionNumber
 {
-	
+
 }
 
 p.MiniTOC1
 {
-	
+
 }
 
 p.quotationname
@@ -459,7 +470,7 @@ p.quotationname
 
 p.TableCaption
 {
-	
+
 }
 
 p.TableTextCenterDark
@@ -503,7 +514,7 @@ p.TableTextLightEmphasis
 
 p.TOCHeading
 {
-	
+
 }
 
 span.Emphasis
@@ -513,7 +524,7 @@ span.Emphasis
 
 span.FigureNum
 {
-	
+
 }
 
 span.SetOffFirstLevel
@@ -530,7 +541,7 @@ span.SetOffSecondLevel
 
 span.TableNum
 {
-	
+
 }
 
 td
@@ -548,7 +559,7 @@ th
 
 tr
 {
-	
+
 }
 
 ul
@@ -581,7 +592,17 @@ html.templateTopic div.sideContent
 		line-height: 13px;
 		margin: 8px;
 	}
-
+	span.blue-button
+	{
+		font-family: "Arial";
+		/* padding: 2px 4px; */
+		padding: 20pt;
+		color: #fff;
+		border-radius: 4px;
+		text-align: center;
+		background-color: #00aadf;
+		border: 1px solid #017195;
+	}
 	div.GlossaryPageDefinition
 	{
 		font-size: 9pt;
